@@ -31,3 +31,23 @@ Program şu değerleri kullanır:
 Bu değerler girildikten sonra, program gazın basıncını hesaplar ve ekranda gösterir.
 
 ---
+
+## Usage (Kullanım)
+
+1. Compile the program using a C compiler (e.g., `gcc`):
+2. Run the executable:
+3. Enter the required inputs when prompted.
+
+---
+
+1. Programı bir C derleyicisi ile derleyin (örneğin, `gcc`):
+2. Çıktı dosyasını çalıştırın:
+3. İstenilen değerleri girin.
+
+---
+
+
+
+
+
+   
